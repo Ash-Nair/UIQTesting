@@ -45,7 +45,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
             var useriq_site_id = "511058301"
             //All green highlights indicate the areas in the UserIQ script that should contain your own variables
             // user id is required
-            var user_id = "ashwin"
+            var user_id = "useriq-unknown"
             // account id is required for account analytics
             var account_id = "ashwin"
             useriq.setSiteId(useriq_site_id)
